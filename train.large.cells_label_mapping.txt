@@ -1,0 +1,4 @@
+shape_labels: circle,square,triangle,none
+color_labels: red,green,blue,none
+shape_to_id: circle=0,square=1,triangle=2,none=3
+color_to_id: red=0,green=1,blue=2,none=3

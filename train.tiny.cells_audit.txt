@@ -1,0 +1,2 @@
+unknown_mask_count	0
+index	image_idx	cell_idx	row	col	shape	color_id	active_pixels
